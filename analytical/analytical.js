@@ -7,6 +7,8 @@
 
 Result: 0
 Answer: false — due to floating point precision errors in JavaScript.
+number cutt bacause of false calculation  0.1 + 0.2 = 0.30000000000000004 but you've wrritten "0.33333333"
+Here you can get some number like 1 or 2
 
 
 // Medium level
